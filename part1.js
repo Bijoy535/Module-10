@@ -1,6 +1,6 @@
 class MyClass {
-    num1 = 10
-    num2 = 20
+    num1 = 20
+    num2 = 30
     addTwo() {
         let sum = this.num1 + this.num2
         console.log(sum)
